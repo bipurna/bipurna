@@ -1,5 +1,5 @@
 
-# [Hi,Namaskar,Hallo] there, I am Tara roaming around in Github 👋
+# [Hi,Namaskar,Hallo] there, I am Tara. 👋
 <br/>
 - 🌱 I’m currently working on kivy and learning django <br/>
 - 👯 I’m looking to collaborate on django and python <br/>
@@ -10,5 +10,5 @@
 
 
 <br />
-[Contentless videos...] - (https://www.youtube.com/channel/UCMmySoaej7lKKwHAwjudBNw)
+
 

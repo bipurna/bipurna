@@ -1,5 +1,5 @@
 
-# [Hi,Namaskar,Hallo] there, I am Tara. 👋
+# [Namaskar,Hallo] there, I am Tara. 👋
 <br/>
 - 🌱 I finished fullstack web developement bootcamp currently, using HTML,CSS,Javascript,React,Python,Docker, GitLab CI/CD and django <br/>
 - 👯 I’m looking to collaborate on django and python <br/>
